@@ -1,3 +1,11 @@
+# visualize 4.4.0 - Hotfix - "Seeing is Refreshing"
+
+## CHANGES
+
+- Updated package structure to reflect modern practices (#9)
+- Switched documentation to use `markdown` (#9). 
+- Improved the `README.Rmd` file with new examples (#10).
+
 # visualize 4.3.0 - Hotfix - "Seeing is Modern"
 
 ## CHANGES
