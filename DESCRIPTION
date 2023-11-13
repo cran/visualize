@@ -2,8 +2,8 @@ Package: visualize
 Type: Package
 Title: Graph Probability Distributions with User Supplied Parameters
         and Statistics
-Version: 4.4.0
-Depends: R (>= 3.0.0)
+Version: 4.5.0
+Depends: R (>= 4.0.0)
 Authors@R: c(
     person("James", "Balamuta", 
            role = c("aut", "cph", "cre"), 
@@ -17,15 +17,16 @@ Description: Graphs the pdf or pmf and highlights what area or probability is
     to inequalities.  Also provided on the graph is the mean and variance of
     the distribution. 
 License: MIT + file LICENSE
-URL: https://github.com/coatless/visualize,
-        http://thecoatlessprofessor.com/projects/visualize/
-BugReports: https://github.com/coatless/visualize/issues
+URL: https://github.com/coatless-rpkg/visualize,
+        https://thecoatlessprofessor.com/projects/visualize/,
+        https://r-pkg.thecoatlessprofessor.com/visualize/
+BugReports: https://github.com/coatless-rpkg/visualize/issues
 Encoding: UTF-8
-RoxygenNote: 6.1.1
+RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2020-01-07 20:02:13 UTC; ronin
+Packaged: 2023-11-13 09:26:55 UTC; ronin
 Author: James Balamuta [aut, cph, cre]
     (<https://orcid.org/0000-0003-2826-8458>)
 Maintainer: James Balamuta <james.balamuta@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-01-08 22:20:02 UTC
+Date/Publication: 2023-11-13 09:40:02 UTC

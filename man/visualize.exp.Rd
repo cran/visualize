@@ -13,7 +13,7 @@ visualize.exp(stat = 1, theta = 1, section = "lower")
 \item{theta}{vector of rates}
 
 \item{section}{Select how you want the statistic(s) evaluated via
-\code{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
+\verb{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
 or\code{"tails"}.}
 }
 \value{
@@ -42,4 +42,4 @@ visualize.exp(stat = .5, theta = 3, section = "upper")
 \author{
 James Balamuta
 }
-\keyword{visualize}
+\keyword{continuous-distribution}

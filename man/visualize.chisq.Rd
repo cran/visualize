@@ -13,7 +13,7 @@ visualize.chisq(stat = 1, df = 3, section = "lower")
 \item{df}{degrees of freedom of Chi-squared distribution.}
 
 \item{section}{Select how you want the statistic(s) evaluated via
-\code{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
+\verb{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
 or\code{"tails"}.}
 }
 \value{
@@ -41,4 +41,4 @@ visualize.chisq(stat = 1, df = 3, section = "upper")
 \author{
 James Balamuta
 }
-\keyword{visualize}
+\keyword{continuous-distribution}

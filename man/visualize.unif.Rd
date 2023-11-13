@@ -15,7 +15,7 @@ visualize.unif(stat = 1, a = 0, b = 1, section = "lower")
 \item{b}{end point. Note: \code{b} > \code{a}}
 
 \item{section}{Select how you want the statistic(s) evaluated via
-\code{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
+\verb{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
 or\code{"tails"}.}
 }
 \description{
@@ -39,4 +39,4 @@ visualize.unif(stat = 2, a = 1, b = 5, section = "upper")
 \author{
 James Balamuta
 }
-\keyword{visualize}
+\keyword{continuous-distribution}

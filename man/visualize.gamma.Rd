@@ -19,7 +19,7 @@ implementation of the gamma distribution. \code{theta} must be greater than
 0.}
 
 \item{section}{Select how you want the statistic(s) evaluated via
-\code{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
+\verb{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
 or\code{"tails"}.}
 }
 \description{
@@ -44,4 +44,4 @@ visualize.gamma(stat = 1, alpha = 3, theta = 1, section = "upper")
 \author{
 James Balamuta
 }
-\keyword{visualize}
+\keyword{continuous-distribution}

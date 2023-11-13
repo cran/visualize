@@ -15,7 +15,7 @@ visualize.norm(stat = 1, mu = 0, sd = 1, section = "lower")
 \item{sd}{standard deviation of the Normal Distribution.}
 
 \item{section}{Select how you want the statistic(s) evaluated via
-\code{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
+\verb{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
 or\code{"tails"}.}
 }
 \description{
@@ -36,4 +36,4 @@ visualize.norm(stat = 1, mu = 3, sd = 2, section = "upper")
 \seealso{
 \code{\link[=visualize.it]{visualize.it()}} , \code{\link[=dnorm]{dnorm()}}.
 }
-\keyword{visualize}
+\keyword{continuous-distribution}

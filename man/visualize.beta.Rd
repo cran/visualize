@@ -18,7 +18,7 @@ implementation of the beta distribution. \code{alpha} must be greater than
 implementation of the beta distribution. \code{beta} must be greater than 0.}
 
 \item{section}{Select how you want the statistic(s) evaluated via
-\code{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
+\verb{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
 or\code{"tails"}.}
 }
 \value{
@@ -46,4 +46,4 @@ visualize.beta(stat = 1, alpha = 2, beta = 3, section = "upper")
 \author{
 James Balamuta
 }
-\keyword{visualize}
+\keyword{continuous-distribution}

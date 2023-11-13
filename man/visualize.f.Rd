@@ -15,7 +15,7 @@ visualize.f(stat = 1, df1 = 5, df2 = 4, section = "lower")
 \item{df2}{Second Degrees of Freedom}
 
 \item{section}{Select how you want the statistic(s) evaluated via
-\code{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
+\verb{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
 or\code{"tails"}.}
 }
 \value{
@@ -43,4 +43,4 @@ visualize.f(stat = 1, df1 = 5, df2 = 4, section = "upper")
 \author{
 James Balamuta
 }
-\keyword{visualize}
+\keyword{continuous-distribution}

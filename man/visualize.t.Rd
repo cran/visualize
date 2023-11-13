@@ -13,7 +13,7 @@ visualize.t(stat = 1, df = 3, section = "lower")
 \item{df}{Degrees of freedom}
 
 \item{section}{Select how you want the statistic(s) evaluated via
-\code{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
+\verb{section=} either \code{"lower"},\code{"bounded"}, \code{"upper"},
 or\code{"tails"}.}
 }
 \value{
@@ -42,4 +42,4 @@ visualize.t(stat = 1, df = 4, section = "upper")
 \author{
 James Balamuta
 }
-\keyword{visualize}
+\keyword{continuous-distribution}
